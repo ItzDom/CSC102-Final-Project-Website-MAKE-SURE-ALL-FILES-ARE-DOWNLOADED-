@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    background-image: url(uat\ background.png);
+    background-size: cover;
+    background-position: top;
+    
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsla(0, 90%, 23%, 0.808);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+.navbar li{
+    float: center;
+}
+.header{
+    text-align: center;
+    color: rgb(226, 24, 24);
+}
+.heading{
+    text-align: center;
+    color: rgb(226, 24, 24);
+}
+.button{
+    margin-left: 800px;
+}
+.message{
+    text-align: center;
+    font-size: larger;
+    color: rgb(226, 24, 24);
+}
+.table{
+    margin: auto;
+    font-weight: bolder;
+    color: rgb(226, 24, 24)
+}
+.disclaimer{
+    text-align: center;
+    color: rgb(226, 24, 24);
+    font-weight: bolder;
+}
+.footer{
+    text-align: center;
+    font-weight: bolder;
+}
